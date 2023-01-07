@@ -3,7 +3,7 @@ function NavBar() {
     <>
       <nav className="navbar navbar-expand-lg navbar navbar-dark bg-dark">
         <a className="navbar-brand" href="#">
-          BadBank
+          Bank Application
         </a>
         <button
           className="navbar-toggler"
